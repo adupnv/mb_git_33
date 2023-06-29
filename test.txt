@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 xin chao git 
 Hello git
+=======
+Hello git
+>>>>>>> 78bc9d0804f56f71af8693a0f7e63f7a5674fc39
